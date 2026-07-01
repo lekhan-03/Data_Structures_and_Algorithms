@@ -46,7 +46,7 @@ A running ledger of recently tackled problems and algorithmic concepts.
 ---
 
 ## 💻 Tech Stack & Execution
-Solutions are primarily written in **[Insert your primary language, e.g., Python / JavaScript]**.
+Solutions are primarily written in **Java**.
 
 To run any of the standalone scripts locally:
 
@@ -62,7 +62,7 @@ java Fibonaci.java
 ---
 
 ## ✍️ Author
-**Lekhan **  
+**Lekhan**  
 Full Stack Developer & AI Engineer
 
 * 🌐 [Portfolio](https://lekhan-portfolio.netlify.app/)
