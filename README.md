@@ -39,7 +39,7 @@ A running ledger of recently tackled problems and algorithmic concepts.
 | --- | --- | --- | --- | --- | --- |
 | 2026-06-24 | [Two Sum](./Easy/TwoSum.java) | LeetCode |  Easy | Arrays, Hashing | ✅ Solved |
 | 2026-06-25 | [SudokuSolver](./Recurssion/SudokuSolver.java) | Practice Problem|  Medium | Recussion | ✅ Solved |
-| YYYY-MM-DD | [Fibonacci Series](./Platform-Solutions/LeetCode/MergeKSorted.py) | LeetCode | Easy| Recurrsion, DP | ✅ Solved |
+| 2026-06-25 | [Fibonacci Series](./Platform-Solutions/LeetCode/MergeKSorted.py) | LeetCode | Easy| Recurrsion, DP | ✅ Solved |
 
 *(Note: Click on the Problem Title to view the code, time/space complexity breakdown, and my notes).*
 
