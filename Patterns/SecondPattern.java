@@ -31,6 +31,8 @@ public class SecondPattern {
         printSecondPattern(a);
         System.out.println("The Reverse of this Pattern");
         reverseSecond(a);
-
+        System.out.println("The Comibined Pattern is :");
+        printSecondPattern(a);
+        reverseSecond(a);
     }
 }

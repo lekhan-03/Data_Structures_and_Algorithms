@@ -17,13 +17,13 @@ public class FifthPattern {
     }
     static void reversePattern(int n){
         for (int i = 0;i<n;i++){
-            for (int j=0;j<=i;j++){
+            for (int j=0;j<i;j++){
                 System.out.print(" ");
             }
             for(int j=0;j<2*n-(2*i+1);j++){
                 System.out.print("*");
             }
-              for (int j=0;j<=i;j++){
+              for (int j=0;j<i;j++){
                 System.out.print(" ");
             }
             System.out.println();
@@ -35,6 +35,9 @@ public class FifthPattern {
         int a= in.nextInt();
         print5thPattern(a);
         System.out.println("Reverse of the Pattern");
+        reversePattern(a);
+        System.out.println("The combined pattern is :");
+        print5thPattern(a);
         reversePattern(a);
     }
 }
