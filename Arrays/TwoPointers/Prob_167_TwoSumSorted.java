@@ -1,3 +1,4 @@
+package TwoPointers;
 import java.util.Arrays;
 class Solution{
     public int[] twoSum(int arr[],int target){

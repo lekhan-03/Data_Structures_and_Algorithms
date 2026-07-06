@@ -1,3 +1,4 @@
+
 import java.util.Arrays;
 public class PalindromeArray {
     static boolean isPalindrome(int [] arr){
